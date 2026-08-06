@@ -1,6 +1,6 @@
 # 🚀 My Portfolio Website
 
-(![Portfolio Landing Page](landing-page.png))
+![Portfolio Landing Page](landing-page.png)
 
 [Checkout the initial design here](https://www.figma.com/design/56hODoGFDzZfZduBPfQeBg/New-Portfolio?node-id=18-1550&t=73vRMGTW0gspTSND-1)
 
