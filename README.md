@@ -16,7 +16,7 @@ If you like my work, give it a star⭐.
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [tajmirul.site](https://www.sayeem3051.blog/). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Sayeem.site](https://www.sayeem3051.blog/). Thanks!
 
 ## 🛠 Installation & Set Up
 
